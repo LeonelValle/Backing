@@ -1,0 +1,17 @@
+C:\Users\leonel.valle\source\repos\Backing\Backing\bin\Debug\Backing.exe.config
+C:\Users\leonel.valle\source\repos\Backing\Backing\bin\Debug\Backing.exe.manifest
+C:\Users\leonel.valle\source\repos\Backing\Backing\bin\Debug\Backing.application
+C:\Users\leonel.valle\source\repos\Backing\Backing\bin\Debug\Backing.exe
+C:\Users\leonel.valle\source\repos\Backing\Backing\bin\Debug\Backing.pdb
+C:\Users\leonel.valle\source\repos\Backing\Backing\obj\Debug\Backing.Form1.resources
+C:\Users\leonel.valle\source\repos\Backing\Backing\obj\Debug\Backing.Properties.Resources.resources
+C:\Users\leonel.valle\source\repos\Backing\Backing\obj\Debug\Backing.Reports.resources
+C:\Users\leonel.valle\source\repos\Backing\Backing\obj\Debug\Backing.Validate.resources
+C:\Users\leonel.valle\source\repos\Backing\Backing\obj\Debug\Backing.ValidateTakeOut.resources
+C:\Users\leonel.valle\source\repos\Backing\Backing\obj\Debug\Backing.csproj.GenerateResource.cache
+C:\Users\leonel.valle\source\repos\Backing\Backing\obj\Debug\Backing.csproj.CoreCompileInputs.cache
+C:\Users\leonel.valle\source\repos\Backing\Backing\obj\Debug\Backing.exe.manifest
+C:\Users\leonel.valle\source\repos\Backing\Backing\obj\Debug\Backing.application
+C:\Users\leonel.valle\source\repos\Backing\Backing\obj\Debug\Backing.exe
+C:\Users\leonel.valle\source\repos\Backing\Backing\obj\Debug\Backing.pdb
+C:\Users\leonel.valle\source\repos\Backing\Backing\obj\Debug\Backing.csproj.AssemblyReference.cache
